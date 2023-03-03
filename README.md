@@ -3,7 +3,7 @@ Android studio make remember game with kotlin language
 
 <table>
 
-  <tr style="height: 200px">
+  <tr>
     <td>
       <img src="https://sv1.picz.in.th/images/2023/03/03/etbjUf.png" alt="etbjUf.png" border="0">
     </td>
@@ -14,7 +14,7 @@ Android studio make remember game with kotlin language
       <img src="https://sv1.picz.in.th/images/2023/03/03/etbAcz.png" alt="etbAcz.png" border="0">
     </td>
   </tr>
-  <tr style="height: 200px">
+  <tr>
     <td>
       <img src="https://sv1.picz.in.th/images/2023/03/03/etbPs8.png" alt="etbPs8.png" border="0">
     <td>
@@ -25,7 +25,7 @@ Android studio make remember game with kotlin language
       <img src="https://sv1.picz.in.th/images/2023/03/03/etbCT0.png" alt="etbCT0.png" border="0">
     </td>
   </tr>
-  <tr style="height: 200px">
+  <tr>
     <td>
       <img src="https://sv1.picz.in.th/images/2023/03/03/etbuju.png" alt="etbuju.png" border="0">
     </td>
